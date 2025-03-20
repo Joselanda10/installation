@@ -1,1 +1,2 @@
-git clone https://github.com/tu-usuario/tu-repo.git
+npm install -D tailwindcss postcss autoprefixer
+
